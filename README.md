@@ -1,1 +1,1 @@
-# Air-Quality-Index-Time-Series-Geospatial-Analysis
+# Air-Quality-Index-Time-Series-and-Geospatial-Analysis
